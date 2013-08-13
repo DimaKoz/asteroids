@@ -1,6 +1,6 @@
 # built application files
-*.apk
-*.ap_
+#*.apk
+#*.ap_
 
 # files for the dex VM
 *.dex
@@ -18,3 +18,8 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+.settings/
+
+*~
+
+lint.xml
